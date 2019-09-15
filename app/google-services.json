@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1014939094603",
+    "firebase_url": "https://clobber-rage.firebaseio.com",
+    "project_id": "clobber-rage",
+    "storage_bucket": "clobber-rage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014939094603:android:17dd9d511ad0f6b9",
+        "android_client_info": {
+          "package_name": "com.example.clobberrage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014939094603-le8384l5etvlm2al899hgcqqjvtm1mch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clobberrage",
+            "certificate_hash": "1dec33283dfbb0e31136126fe28693a483a2e72e"
+          }
+        },
+        {
+          "client_id": "1014939094603-7masgbv0hhg0n5hepvia54cm4nbjlele.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEXa1F-lLqv0ifrIVR3tCRk2iPJpImebI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014939094603-7masgbv0hhg0n5hepvia54cm4nbjlele.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
